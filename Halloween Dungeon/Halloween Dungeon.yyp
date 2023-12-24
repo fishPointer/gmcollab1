@@ -35,7 +35,7 @@
   },
   "resources": [
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
-    {"id":{"name":"spr_blake","path":"sprites/spr_blake/spr_blake.yy",},},
+    {"id":{"name":"spr_ian","path":"sprites/spr_ian/spr_ian.yy",},},
     {"id":{"name":"spr_littleguy","path":"sprites/spr_littleguy/spr_littleguy.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
