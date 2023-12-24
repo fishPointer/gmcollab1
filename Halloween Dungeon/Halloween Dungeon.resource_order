@@ -17,8 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"spr_player","order":16,"path":"sprites/spr_player/spr_player.yy",},
-    {"name":"player_blake","order":17,"path":"sprites/player_blake/player_blake.yy",},
-    {"name":"spr_littleguy","order":18,"path":"sprites/spr_littleguy/spr_littleguy.yy",},
+    {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_littleguy","order":1,"path":"sprites/spr_littleguy/spr_littleguy.yy",},
   ],
 }

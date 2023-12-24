@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "player_blake",
+  "name": "spr_blake",
   "bbox_bottom": 67,
   "bbox_left": 6,
   "bbox_right": 69,
@@ -25,14 +25,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Halloween Dungeon",
-    "path": "Halloween Dungeon.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "player_blake",
+    "name": "spr_blake",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f5e776a5-fb9c-4c7b-8da6-216154b9cd3e","path":"sprites/player_blake/player_blake.yy",},},},"Disabled":false,"id":"ab9c7116-b94f-42f0-a733-bb4b3ea7924c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f5e776a5-fb9c-4c7b-8da6-216154b9cd3e","path":"sprites/spr_blake/spr_blake.yy",},},},"Disabled":false,"id":"ab9c7116-b94f-42f0-a733-bb4b3ea7924c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
