@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_player","order":16,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"player_blake","order":17,"path":"sprites/player_blake/player_blake.yy",},
   ],
 }
