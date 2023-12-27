@@ -31,9 +31,10 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
+    {"id":{"name":"spr_iancurtis","path":"sprites/spr_iancurtis/spr_iancurtis.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_ian","path":"sprites/spr_ian/spr_ian.yy",},},
     {"id":{"name":"spr_littleguy","path":"sprites/spr_littleguy/spr_littleguy.yy",},},
@@ -42,7 +43,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
-  "templateType": "game",
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
